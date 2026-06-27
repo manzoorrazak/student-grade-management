@@ -1,4 +1,4 @@
-const apiUrl = "https://localhost:7197/api";
+const apiUrl = "https://student-grade-management-production.up.railway.app/api";
 
 let editingSubjectId = null;
 

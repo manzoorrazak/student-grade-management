@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Manzoor\\Desktop\\StudentGrades\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|c:\\users\\manzoor\\desktop\\studentgrades\\studentgrades.api\\endpoints\\subjectendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|solutionrelative:studentgrades.api\\endpoints\\subjectendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|c:\\users\\manzoor\\desktop\\studentgrades\\studentgrades.api\\studentgrades.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|solutionrelative:studentgrades.api\\studentgrades.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|c:\\users\\manzoor\\desktop\\studentgrades\\studentgrades.api\\endpoints\\studentendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|solutionrelative:studentgrades.api\\endpoints\\studentendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|c:\\users\\manzoor\\desktop\\studentgrades\\studentgrades.api\\endpoints\\subjectendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|solutionrelative:studentgrades.api\\endpoints\\subjectendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|c:\\users\\manzoor\\desktop\\studentgrades\\studentgrades.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|solutionrelative:studentgrades.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|c:\\users\\manzoor\\desktop\\studentgrades\\studentgrades.api\\studentgrades.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|solutionrelative:studentgrades.api\\studentgrades.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|c:\\users\\manzoor\\desktop\\studentgrades\\studentgrades.api\\dtos\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|solutionrelative:studentgrades.api\\dtos\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|c:\\users\\manzoor\\desktop\\studentgrades\\studentgrades.api\\endpoints\\studentendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|solutionrelative:studentgrades.api\\endpoints\\studentendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D71E1449-11F1-C6C2-B127-311E8CD16C19}|StudentGrades.Api\\StudentGrades.Api.csproj|c:\\users\\manzoor\\desktop\\studentgrades\\studentgrades.api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,56 +46,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentEndpoints.cs",
-              "DocumentMoniker": "C:\\Users\\Manzoor\\Desktop\\StudentGrades\\StudentGrades.Api\\Endpoints\\StudentEndpoints.cs",
-              "RelativeDocumentMoniker": "StudentGrades.Api\\Endpoints\\StudentEndpoints.cs",
-              "ToolTip": "C:\\Users\\Manzoor\\Desktop\\StudentGrades\\StudentGrades.Api\\Endpoints\\StudentEndpoints.cs",
-              "RelativeToolTip": "StudentGrades.Api\\Endpoints\\StudentEndpoints.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-27T14:24:41.267Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "StudentResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\Manzoor\\Desktop\\StudentGrades\\StudentGrades.Api\\DTOs\\StudentResponseDto.cs",
               "RelativeDocumentMoniker": "StudentGrades.Api\\DTOs\\StudentResponseDto.cs",
               "ToolTip": "C:\\Users\\Manzoor\\Desktop\\StudentGrades\\StudentGrades.Api\\DTOs\\StudentResponseDto.cs",
               "RelativeToolTip": "StudentGrades.Api\\DTOs\\StudentResponseDto.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-27T14:21:39.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentGrades.Api",
+              "DocumentIndex": 0,
+              "Title": "StudentGrades.Api.csproj",
               "DocumentMoniker": "C:\\Users\\Manzoor\\Desktop\\StudentGrades\\StudentGrades.Api\\StudentGrades.Api.csproj",
               "RelativeDocumentMoniker": "StudentGrades.Api\\StudentGrades.Api.csproj",
               "ToolTip": "C:\\Users\\Manzoor\\Desktop\\StudentGrades\\StudentGrades.Api\\StudentGrades.Api.csproj",
               "RelativeToolTip": "StudentGrades.Api\\StudentGrades.Api.csproj",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-06-27T14:19:23.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SubjectEndpoints.cs",
               "DocumentMoniker": "C:\\Users\\Manzoor\\Desktop\\StudentGrades\\StudentGrades.Api\\Endpoints\\SubjectEndpoints.cs",
               "RelativeDocumentMoniker": "StudentGrades.Api\\Endpoints\\SubjectEndpoints.cs",
               "ToolTip": "C:\\Users\\Manzoor\\Desktop\\StudentGrades\\StudentGrades.Api\\Endpoints\\SubjectEndpoints.cs",
               "RelativeToolTip": "StudentGrades.Api\\Endpoints\\SubjectEndpoints.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAADoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-27T13:47:04.376Z",
               "EditorCaption": ""
@@ -108,9 +99,22 @@
               "RelativeDocumentMoniker": "StudentGrades.Api\\Program.cs",
               "ToolTip": "C:\\Users\\Manzoor\\Desktop\\StudentGrades\\StudentGrades.Api\\Program.cs",
               "RelativeToolTip": "StudentGrades.Api\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-27T14:17:23.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Manzoor\\Desktop\\StudentGrades\\StudentGrades.Api\\Endpoints\\StudentEndpoints.cs",
+              "RelativeDocumentMoniker": "StudentGrades.Api\\Endpoints\\StudentEndpoints.cs",
+              "ToolTip": "C:\\Users\\Manzoor\\Desktop\\StudentGrades\\StudentGrades.Api\\Endpoints\\StudentEndpoints.cs",
+              "RelativeToolTip": "StudentGrades.Api\\Endpoints\\StudentEndpoints.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T14:24:41.267Z",
               "EditorCaption": ""
             },
             {
