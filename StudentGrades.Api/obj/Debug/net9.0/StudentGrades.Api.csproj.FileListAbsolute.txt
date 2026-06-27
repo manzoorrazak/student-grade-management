@@ -131,3 +131,4 @@ C:\Users\Manzoor\Desktop\StudentGrades\StudentGrades.Api\obj\Debug\net9.0\Studen
 C:\Users\Manzoor\Desktop\StudentGrades\StudentGrades.Api\obj\Debug\net9.0\StudentGrades.Api.genruntimeconfig.cache
 C:\Users\Manzoor\Desktop\StudentGrades\StudentGrades.Api\obj\Debug\net9.0\ref\StudentGrades.Api.dll
 C:\Users\Manzoor\Desktop\StudentGrades\StudentGrades.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Manzoor\Desktop\StudentGrades\StudentGrades.Api\obj\Debug\net9.0\StudentGrades.Api.sourcelink.json
