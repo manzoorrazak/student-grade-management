@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STUDENT GRADE MANAGEMENT SYSTEM</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Student Grade Management</h1>
+
+    <div class="menu">
+        <button id="subjectsBtn">Subjects</button>
+        <button id="studentsBtn">Students</button>
+        <button id="resultsBtn">Results</button>
+    </div>
+
+    <!-- Subjects -->
+
+    <section id="subjectsSection">
+
+        <h2>Subjects</h2>
+
+        <input
+            type="text"
+            id="subjectName"
+            placeholder="Subject Name">
+
+        <button id="saveSubjectBtn">
+            Save Subject
+        </button>
+
+        <table id="subjectsTable">
+
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Subject</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+
+            <tbody>
+
+            </tbody>
+
+        </table>
+
+    </section>
+
+    <!-- Students -->
+
+    <section id="studentsSection" style="display:none;">
+
+        <h2>Students</h2>
+
+        <input
+            type="text"
+            id="studentName"
+            placeholder="Student Name">
+
+        <select id="subjectSelect">
+
+        </select>
+
+        <input
+            type="number"
+            min="0" 
+            max="100"
+            id="grade"
+            placeholder="Grade">
+
+        <button id="saveStudentBtn">
+            Save Student
+        </button>
+
+        <table id="studentsTable">
+
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Subject</th>
+                    <th>Grade</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+
+            <tbody>
+
+            </tbody>
+
+        </table>
+
+    </section>
+
+    <!-- Results -->
+
+    <section id="resultsSection" style="display:none;">
+
+        <h2>Student Grades</h2>
+
+        <input
+            type="text"
+            id="searchStudent"
+            placeholder="Search Student">
+
+        <select id="filterRemarks">
+
+            <option value="">All</option>
+            <option value="PASS">PASS</option>
+            <option value="FAIL">FAIL</option>
+
+        </select>
+
+        <table id="resultsTable">
+
+            <thead>
+
+                <tr>
+
+                    <th>Student</th>
+                    <th>Subject</th>
+                    <th>Grade</th>
+                    <th>Remarks</th>
+
+                </tr>
+
+            </thead>
+
+            <tbody>
+
+            </tbody>
+
+        </table>
+
+    </section>
+
+    <script src="app.js"></script>
+
+</body>
+</html>
